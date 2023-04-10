@@ -1,1 +1,3 @@
-# Factorial-and-fibonachi
+# Factorial and fibonachi
+install:
+$ node index.js
